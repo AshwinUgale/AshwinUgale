@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Ashwin Ugale
 
 🎓 Master's in Computer Science @ Indiana University, Bloomington  
-☁️ Cloud & DevOps Enthusiast | Full Stack Developer | Systems Thinker  
-🔍 Building scalable, observable, and cost-efficient cloud-native systems
+☁️ Full Stack Developer | Cloud & DevOps Enthusiast
+🔍 Building scalable cloud-native systems
 
 ---
 
@@ -11,14 +11,6 @@
 - 🔹 **Cloud-Native Booking Platform**  
   Microservices architecture (React, Node.js, Spring Boot) with CI/CD on GKE using GitHub Actions, Docker, Helm & Ingress. Includes real-time booking, payment, and observability integrations.
 
-- 🔹 **DevOps-Enhanced Portfolio Site** *(WIP)*  
-  Auto-updating portfolio deployed on GCP using Terraform + Score. Features self-launching demos, DNS-based addressing, and Prometheus/Grafana monitoring.
-
-- 🔹 **Cloud Cost Monitoring Tool**  
-  AWS-based tool that tracks resource usage and automatically shuts down idle infrastructure. Uses Lambda, CloudWatch, and budget alerts to control cloud costs.
-
-- 🔹 **Historical Archive AI Platform** *(Research)*  
-  NLP + OCR pipeline to extract and structure data from Indian freedom movement archives. Built with spaCy, Tesseract, and React for interactive timeline visualization.
 
 ---
 
@@ -45,9 +37,9 @@
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: [ashwinugale.dev](https://your-portfolio-link.com) *(live link if ready)*
+- 🌐 Portfolio: coming soon
 - 🔗 LinkedIn: [linkedin.com/in/ashwinugale](https://linkedin.com/in/ashwinugale)
-- ✉️ Email: ashwinugale@gmail.com
+- ✉️ Email: ugaleashwin@gmail.com
 
 ---
 
