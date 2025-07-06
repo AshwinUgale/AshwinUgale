@@ -8,22 +8,31 @@
 
 ## 🛠️ Skills
 
-### 💻 Languages
-| Java | Python | C++ | JavaScript | TypeScript |
-|------|--------|-----|------------|------------|
+### 💻 Programming Languages  
+`Python` &nbsp; `Java` &nbsp; `C++` &nbsp; `C` &nbsp; `PHP` &nbsp; `R`
 
-### ⚙️ Frameworks & Libraries
-| Spring Boot | Node.js | Express | React |
+### 🐧 Operating Systems & Scripting  
+`Linux` &nbsp; `UNIX` &nbsp; `BSD` &nbsp; `Shell Scripting`
 
-### ☁️ Cloud & DevOps
-| AWS | GCP | Docker | Kubernetes |
-| Terraform | Helm | GitHub Actions |
+### 🌐 Networking  
+`TCP/IP` &nbsp; `Load Balancing` &nbsp; `HTTP` &nbsp; `DNS` &nbsp; `CDN`
 
-### 🗄️ Databases
-| PostgreSQL | MongoDB | MySQL | Redis |
+### 🗄️ Databases  
+`SQL` &nbsp; `MongoDB` &nbsp; `Firebase` &nbsp; `RDBMS` &nbsp; `Oracle` &nbsp; `MySQL` &nbsp; `PostgreSQL`
 
-### 📈 Tools & Platforms
-| Prometheus | Grafana | ArgoCD | Liquibase | Score | Git |
+### 🧱 Web Development  
+`React` &nbsp; `Node.js` &nbsp; `Spring Boot` &nbsp; `Express` &nbsp; `Bootstrap`  
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `MERN Stack`
+
+### ☁️ Cloud & DevOps  
+`GCP` &nbsp; `AWS (EC2, S3, IAM, EKS, RDS)`  
+`Docker` &nbsp; `Kubernetes` &nbsp; `GitHub Actions` &nbsp; `Helm`  
+`Prometheus` &nbsp; `Grafana` &nbsp; `CI/CD`
+
+### 🧰 Tools & Practices  
+`Agile` &nbsp; `Git` &nbsp; `Postman` &nbsp; `REST APIs`  
+`Microservice Architecture` &nbsp; `Data Structures & Algorithms`
+
 
 ---
 
