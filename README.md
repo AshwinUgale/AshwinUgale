@@ -41,8 +41,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinugale)
 [![Email](https://img.shields.io/badge/Email-ugaleashwin@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ugaleashwin@gmail.com)
 
-> 🌐 Portfolio: *coming soon*
+> 🌐 Portfolio: http://ashwin-portfolio-site-2025.s3-website-us-east-1.amazonaws.com/
 
 ---
 
-> *“Infrastructure as Code. Automation by Habit. Observability by Default.”*
