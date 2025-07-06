@@ -8,18 +8,22 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Java, Python, C++, JavaScript (ES6+), TypeScript  
-- **Frameworks:** Spring Boot, Express, React, Node.js  
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Helm, GitHub Actions  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis  
-- **Tools:** Prometheus, Grafana, ArgoCD, Liquibase, Score, Git  
+### 💻 Languages
+| Java | Python | C++ | JavaScript | TypeScript |
+|------|--------|-----|------------|------------|
 
----
+### ⚙️ Frameworks & Libraries
+| Spring Boot | Node.js | Express | React |
 
-## 📊 GitHub Stats
+### ☁️ Cloud & DevOps
+| AWS | GCP | Docker | Kubernetes |
+| Terraform | Helm | GitHub Actions |
 
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinugale&show_icons=true&theme=github_dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinugale&layout=compact&theme=github_dark)
+### 🗄️ Databases
+| PostgreSQL | MongoDB | MySQL | Redis |
+
+### 📈 Tools & Platforms
+| Prometheus | Grafana | ArgoCD | Liquibase | Score | Git |
 
 ---
 
