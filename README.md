@@ -15,46 +15,15 @@ Software Engineer at Enidus USA, where I build enterprise AI for T-Mobile for Bu
 
 ## Featured Projects
 
+Most of what I build is **agent-reliability tooling** — ways to know an agent actually did the right thing, and to catch it when it didn't.
+
 | Project | What it does | Result |
 | :--- | :--- | :---: |
-| **[muteval](https://github.com/AshwinUgale/muteval)** | Mutation testing for LLM eval suites — degrades a system on purpose to check your evals actually catch regressions. | `0→72%` mutation score |
+| **[tracelint](https://github.com/AshwinUgale/tracelint)** | A deterministic linter for agent runs — reads the execution trace and fails CI on structural bugs (ignored tool errors, schema violations, loops, duplicate side effects). No LLM judge. | `8 checks · CI gate` |
+| **[muteval](https://github.com/AshwinUgale/muteval)** | Mutation testing for LLM eval suites — degrades a system on purpose to check your evals actually catch regressions. Refuses to score on a red baseline. | `on PyPI · CI-ready` |
+| **[goldset](https://github.com/AshwinUgale/goldset)** | Turns production traffic into a versioned, deduplicated, coverage-tracked LLM regression suite — with a mandatory human-confirmed golden gate. | `human-gated · coverage-tracked` |
 | **[smolAmem](https://github.com/AshwinUgale/smolAmem)** | Multi-tier long-term memory for agents: working, episodic, and semantic. Published on PyPI. | `1.000` recall@5 |
 | **[ToolPicker](https://github.com/AshwinUgale/toolpicker)** | Hybrid BM25 + semantic router for agents with too many tools for the context window. Published on PyPI. | `0.970` precision@3 |
-| **[DocChat](https://github.com/AshwinUgale/docchat)** | Answers library questions from the exact version your lockfile pins. VS Code extension + MCP server. | `0.854` version accuracy |
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**AI / LLM**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_Hybrid_Retrieval-6C8EBF?style=flat)
-
-**Backend & Data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+| **[DocChat](https://github.com/AshwinUgale/docchat)** | Answers library questions from the exact version your lockfile pins. VS Code extension + MCP server. | `0.850` version correctness |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:412991,100:6C8EBF&height=6&section=footer" />
