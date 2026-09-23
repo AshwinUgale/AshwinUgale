@@ -16,7 +16,7 @@ Software Engineer at Enidus USA, where I build enterprise AI for T-Mobile for Bu
 
 ## Featured Projects
 
-Most of what I build is **agent-reliability tooling** — ways to know an agent actually did the right thing, and to catch it when it didn't.
+
 
 | Project | What it does |
 | :--- | :--- |
