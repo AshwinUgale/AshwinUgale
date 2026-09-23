@@ -22,6 +22,7 @@ Most of what I build is **agent-reliability tooling** — ways to know an agent 
 | :--- | :--- |
 | **[tracelint](https://github.com/AshwinUgale/tracelint)** | A deterministic linter for agent runs — reads the execution trace and fails CI on structural bugs (ignored tool errors, schema violations, loops, duplicate side effects). No LLM judge. |
 | **[muteval](https://github.com/AshwinUgale/muteval)** | Mutation testing for LLM eval suites — degrades a system on purpose to check your evals actually catch regressions. Refuses to score on a red baseline. |
+| **[Retrieval-Lab](https://github.com/AshwinUgale/Retrieval-Lab)** | Benchmark RAG retrieval configs on your own corpus, with deterministic, stage-level attribution for every failed query. |
 | **[goldset](https://github.com/AshwinUgale/goldset)** | Turns production traffic into a versioned, deduplicated, coverage-tracked LLM regression suite — with a mandatory human-confirmed golden gate. |
 | **[smolAmem](https://github.com/AshwinUgale/smolAmem)** | Multi-tier long-term memory for agents: working, episodic, and semantic. Published on PyPI. |
 | **[ToolPicker](https://github.com/AshwinUgale/toolpicker)** | Hybrid BM25 + semantic router for agents with too many tools for the context window. Published on PyPI. |
